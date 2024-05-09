@@ -5,5 +5,5 @@ main:
     url: /videos/
   - title: "Posters"
     url: /posters/
-  - title: "Archive"
-    url: /categories/
+  - title: "Instagram"
+    url: "https://instagram.com/hardlystrictlyjerry"
