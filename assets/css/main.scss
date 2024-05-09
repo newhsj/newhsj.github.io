@@ -8,3 +8,11 @@ search: false
 $footer-background-color: #242a34;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__footer footer {
+  margin-top: 0;
+}
+
+.page__footer {
+  margin-top: 0;
+}

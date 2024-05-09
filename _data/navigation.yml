@@ -1,7 +1,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Art"
-    url: /posts/
+  - title: "Videos"
+    url: /videos/
+  - title: "Posters"
+    url: /posters/
   - title: "Archive"
     url: /categories/
